@@ -9,6 +9,7 @@ This project involves analyzing astrophysical data from the Sloan Digital Sky Su
 - `astro_project.py`: Main script that includes data collection, preprocessing, EDA, feature engineering, predictive modeling, evaluation, visualization, and deployment using Flask.
 - `requirements.txt`: List of required Python packages.
 
+ 
 
 ### Prerequisites
 
