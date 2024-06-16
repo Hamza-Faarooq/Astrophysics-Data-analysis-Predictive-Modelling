@@ -44,7 +44,7 @@ The script visualizes:
 - Actual vs. Predicted redshift scatter plot
 - Feature importances bar plot
 
-### Deployment (Flask Application)
+### Deployment (Flask Application) [On cue]
 
 The script includes a simple Flask application that serves the trained model and allows users to make predictions via a REST API.
 
